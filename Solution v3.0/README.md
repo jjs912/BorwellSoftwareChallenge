@@ -40,11 +40,9 @@
   - 2 values entered
   - Values are numeric
   - Height of individual window does not exceed room height
-  - Total width of windows does not exceed room perimeter\
+  - Total width of windows does not exceed room perimeter
   
   User then enters 'F' when finished.
-  
-- User input *
 
 ---
 
